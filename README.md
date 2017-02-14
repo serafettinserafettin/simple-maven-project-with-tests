@@ -1,3 +1,4 @@
-selam
-maven integration ve unit testleri içermektedir.
+Selam
+</br>
+Maven integration ve unit testleri ve case tesler içermektedir.
 Dockerize edilmiştir.

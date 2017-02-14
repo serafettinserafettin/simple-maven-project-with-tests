@@ -8,9 +8,8 @@ class Base {
 
     protected void run() {
         
-      //  double r = Math.random();
+        double r = Math.random();
       
-      double r = 0;
         if (r < 0.1) {
 
             fail("oops");

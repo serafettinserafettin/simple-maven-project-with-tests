@@ -10,7 +10,7 @@ class Base {
         
        // double r = Math.random();
 
-double r = 0.001;       
+double r = 1;       
         if (r < 0.1) {
 
             fail("oops");

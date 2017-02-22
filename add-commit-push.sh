@@ -1,4 +1,4 @@
-t status
+git status
 tarih=$(date)
 echo $tarih
 git add .
